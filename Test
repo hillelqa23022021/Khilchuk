@@ -7,7 +7,7 @@ public class JavaCSharp { public static void
 	//\u000A\u002F\u002A
 	Console.WriteLine(//\u002A\u002F
 //\u000Anew Object[]{
-      "Hello World!"
+     I AM FINE
 //\u000A}\u000A
       		);
 }}
